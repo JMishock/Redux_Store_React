@@ -1,8 +1,3 @@
-![image](https://user-images.githubusercontent.com/110921145/232869159-2cbb4d03-ede2-4a6a-805b-81b1c0ea4833.png)
-
-
-
-
 
 
 This is an app created through Udemy course "React-The Complete Guide(incl Hooks, React Router, Redux) by Maximilian Schwarzmuller.
